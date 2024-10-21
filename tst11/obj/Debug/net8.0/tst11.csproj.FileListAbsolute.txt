@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\tst11\bin\Debug\net8.0\tst11.exe
+C:\Users\HP\source\repos\tst11\bin\Debug\net8.0\tst11.deps.json
+C:\Users\HP\source\repos\tst11\bin\Debug\net8.0\tst11.runtimeconfig.json
+C:\Users\HP\source\repos\tst11\bin\Debug\net8.0\tst11.dll
+C:\Users\HP\source\repos\tst11\bin\Debug\net8.0\tst11.pdb
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.AssemblyInfo.cs
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.sourcelink.json
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.dll
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\refint\tst11.dll
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.pdb
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\tst11.genruntimeconfig.cache
+C:\Users\HP\source\repos\tst11\obj\Debug\net8.0\ref\tst11.dll
